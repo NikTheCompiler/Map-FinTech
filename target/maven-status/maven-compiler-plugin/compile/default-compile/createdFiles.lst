@@ -1,0 +1,10 @@
+com\mapfintech\intern\MapperInterface.class
+com\mapfintech\intern\ClientServiceImpl.class
+com\mapfintech\intern\ClientService.class
+com\mapfintech\intern\InternApplication.class
+com\mapfintech\intern\Client.class
+com\mapfintech\intern\MapperInterfaceImpl.class
+com\mapfintech\intern\ClientController.class
+com\mapfintech\intern\ClientDTO.class
+com\mapfintech\intern\Controller.class
+com\mapfintech\intern\ClientRepository.class
